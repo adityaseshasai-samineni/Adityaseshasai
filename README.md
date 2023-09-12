@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Adityaseshasai
-- 👀 I’m interested in having FUN Learning
-- 🌱 I’m a programmer who can code in c/c++ and python.
-- 💞️ I’m looking to collaborate on any projects.
+- 👋 Hi, I’m Aditya Sesha Sai Samineni
+- 👀 I’m interested in Machine Learning, python.
+- 🌱 I’m a programmer who can code in c/c++, Java, python(Numpy, Pandas, Sci-kit Learn).
+- 💞️ I’m looking to collaborate on projects that involve Machine Learning.
 - 📫 Reach me at sassai2003@gmail.com
 
 <!---
